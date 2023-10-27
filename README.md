@@ -1,6 +1,11 @@
 # URL-Shortener
 For running BE(api) inside the folder api/
-run this command: npm run dev 
+run these commands:
+1.npm install
+2.npm run dev 
 
 For running FE(client) inside the folder client/
-run this command: npm run start   
+run these commands:
+1.npm install
+2.npm start
+ 
